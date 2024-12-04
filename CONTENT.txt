@@ -1,0 +1,116 @@
+-----HOME PAGE-----
+Welcome to COMPtech
+Your go-to website for learning topics about computing. Expand your knowledge about 
+computers now by reading this online resource.
+
+
+
+
+------PORTFOLIO 1------
+MAJOR DISCIPLINES IN COMPUTING
+
+Computer Science - 
+	Computer science uses the principles of mathematics, engineering, and logic
+to a wide range of tasks, such as developing algorithms, software and hardware 
+development, and artificial intelligence.
+
+Computer Engineering - 
+	Computer engineering combines computer science and electronic engineering 
+to create computer hardware and software. It requires designing, creating, and testing
+computer systems and components.
+
+Information Systems - 
+	An information system is a collection of tools and processes that help gather,
+store, and analyze data. It turns this data into useful information and products.
+Businesses use information systems to handle their operations, connect with customers 
+and suppliers, and stay competitive. They also help manage supply chains and online markets.
+
+Information Technology - 
+	Information technology covers all the ways businesses use computers. It involves 
+setting up communication networks, protecting data and information, managing databases, helping 
+employees with computer or mobiledevice issues, and performing various tasks to keep business 
+information systems efficient and secure.
+
+Software Engineering - 
+	Software engineering is about creating software. It includes designing, building,
+testing, distributing, and updating software. It uses engineering principles, problem-solving 
+skills, and programming to make software that works well for users.
+
+
+	
+-----PORTFOLIO 2-----
+DATA AND INFORMATION
+
+DATA - 
+	refers to raw facts or figures. These facts could be  about people, locations, among other things.
+Data can occur in various forms such as numbers, texts, and many other forms. Data means nothing when it 
+is not interpretted.
+
+TYPES OF DATA - 
+BINARY
+TEXT
+IMAGE
+AUDIO
+VIDEO
+
+
+INFORMATION - 
+	
+	Information is created when data is presented in a way that has meaning to the recipient. Structure 
+and meaning are applied to the collected data to make it useful. Basically, information is processed data. It is
+always beneficial and utilized in decision-making.
+
+
+
+WHAT ARE INFORMATION SYSTEMS?
+
+INFORMATION SYSTEMS - 
+
+	information systems, are an integrated set of components for collecting, storing, and processing data and 
+for providing information, knowledge, and digital products. It induces innovation
+in business activities through its research and development.
+
+
+TYPES OF INFORMATION SYSTEMS:
+
+
+Transaction Processing System (TPS) - 
+
+	TPS is an information system that enables firms to manage real-time transactions. It captures, processes, 
+and stores every transaction within an organization, ensuring data integrity and providing rapid responses
+
+
+Management Information System (MIS) - 
+
+	Operational staff responsible for daily organizational activities use MIS and require access to its collected 
+data to ensure effective performance of their duties.
+
+
+Office Automation System (OAS) - 
+
+	Office automation uses information technology to simplify and assist office operations, improve communication, 
+increase office efficiency, and improve clerical output quality without inaccuracies.
+
+
+Executive Support System (ESS) - 
+	
+	Provide senior executives with analytical tools and high-level data to aid in making strategic decisions.
+
+
+Knowledge Work System (KWS) - 
+
+
+	A knowledge work system is an information system designed to support the creation, organization, and
+dissemination of knowledge within an organization.
+
+
+Decision Support System (DSS) - 
+
+	a DSS supports the management, operations, and planning levels of an organization in making better 
+decisions by assessing the significance of uncertainties and the tradeoffs involved in making one decision 
+over another.
+
+
+------PORTFOLIO 3-----
+
+NUMBER SYSTEMS
