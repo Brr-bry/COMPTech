@@ -292,7 +292,26 @@
     color: black;
 }
 
+.article-card {
+    margin-bottom: 50px;
+}
+
+.article-content#images li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.article-content#images img{
+    height: 110px;
+    width: 110px;
+}
+
+.article-content#list ul{
+    list-style-type:square;
+}
+
 .sub-title {
+    margin-left: 25px;
     font-size: 28px;
     color: black;
     font-family: PoppinsBold;
@@ -300,6 +319,7 @@
 }
 
 .article-content {
+    line-height: 2;
     font-size: 18px;
     font-family: arial;
     text-align: justify;
